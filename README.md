@@ -15,7 +15,7 @@ It is mobile application which helps the user to detect monuments and provide in
 #### pip install opencv
 #### pip install flask_cors
 
-## Screenshits Of Application
+## Screenshots Of Application
 
 ### Splash Screen
 ![Image](https://github.com/zaidkhn/TourBuddy_Monument-Detection-With-Camera-_using_ReactNative_Flask_RestAPI_with_Teachable-machine/blob/main/Images/SplashScreenImage.jpeg?raw=true)
