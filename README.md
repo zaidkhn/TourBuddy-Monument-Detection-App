@@ -16,6 +16,6 @@ It is mobile application which helps the user to detect monuments and provide in
 #### pip install flask_cors
 
 ## Screenshits Of Application
-![Image](https://github.com/zaidkhn/TourBuddy_Monument-Detection-With-Camera-_using_ReactNative_Flask_RestAPI_with_Teachable-machine/blob/main/Images/SplashScreen.jpeg?raw=true)
+![Image](https://github.com/zaidkhn/TourBuddy_Monument-Detection-With-Camera-_using_ReactNative_Flask_RestAPI_with_Teachable-machine/blob/main/Images/SplashScreenImage.jpeg?raw=true)
 ![Image](https://github.com/zaidkhn/TourBuddy_Monument-Detection-With-Camera-_using_ReactNative_Flask_RestAPI_with_Teachable-machine/blob/main/Images/MainScreen.jpeg?raw=true)
 ![Image](https://github.com/zaidkhn/TourBuddy_Monument-Detection-With-Camera-_using_ReactNative_Flask_RestAPI_with_Teachable-machine/blob/main/Images/OutputScreen.jpeg?raw=true)
