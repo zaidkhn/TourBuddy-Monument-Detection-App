@@ -6,3 +6,14 @@ It is mobile application which helps the user to detect monuments and provide in
 ### 2.Flask
 ### 3.RestAPI
 ### 4.Tensorflow Keras
+
+## Libraries To Install
+### Run this command as it is write
+#### npm i
+#### expo start
+#### pip install flask
+#### pip install opencv
+#### pip install flask_cors
+
+## Screenshits Of Application
+
