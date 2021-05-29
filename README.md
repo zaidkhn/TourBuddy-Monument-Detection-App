@@ -8,7 +8,7 @@ It is mobile application which helps the user to detect monuments and provide in
 ### 4.Tensorflow Keras
 
 ## Libraries To Install
-### Run this command as it is write
+### Run this command as it is written
 #### npm i
 #### expo start
 #### pip install flask
@@ -16,4 +16,6 @@ It is mobile application which helps the user to detect monuments and provide in
 #### pip install flask_cors
 
 ## Screenshits Of Application
-
+![Image](https://github.com/zaidkhn/TourBuddy_Monument-Detection-With-Camera-_using_ReactNative_Flask_RestAPI_with_Teachable-machine/blob/master/images/SplashScreen.jpeg?raw=true)
+![Image](https://github.com/zaidkhn/TourBuddy_Monument-Detection-With-Camera-_using_ReactNative_Flask_RestAPI_with_Teachable-machine/blob/master/images/MainScreen.jpeg?raw=true)
+![Image](https://github.com/zaidkhn/TourBuddy_Monument-Detection-With-Camera-_using_ReactNative_Flask_RestAPI_with_Teachable-machine/blob/master/images/OutputScreen.jpeg?raw=true)
